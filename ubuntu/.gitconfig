@@ -1,0 +1,17 @@
+[user]
+	name = 170826798
+	email = hao.zhang@hytera.com
+[color]
+	ui = auto
+[commit]
+	template = ~/gitmessage
+[core]
+	editor = vim
+	quotepath = false
+[help]
+	autocorrect = 1
+[gui]
+	encoding = utf-8
+[i18n]
+	commitEncoding = utf-8
+	logOutputEncoding = utf-8
