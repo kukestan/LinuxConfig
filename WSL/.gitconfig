@@ -1,0 +1,11 @@
+[user]
+	name = kukestan
+	email = kukestan@163.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+[help]
+	autocorrect = 1
+[safe]
+	directory = /mnt/d/code/
