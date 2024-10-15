@@ -1,11 +1,13 @@
 [user]
-	name = kukestan
-	email = kukestan@163.com
+        name = kukestan
+        email = kukestan@163.com
 [color]
-	ui = auto
+        ui = auto
 [core]
-	editor = vim
+        editor = vim
 [help]
-	autocorrect = 1
+        autocorrect = 1
 [safe]
-	directory = /mnt/d/code/
+        directory = /mnt/d/code/
+[credential]
+	helper = store
